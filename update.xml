@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <sharpUpdate>
    <update appId="Update_Test_5">  
-	<latestVersion>2.0.0.0</latestVersion>  
-	<latestVersionUrl>https://github.com/Yuresh/UpdateTestApp.git</latestVersionUrl>
+	<version>2.0.0.0</version>  
+	<url>https://github.com/Yuresh/UpdateTestApp.git<url>
 	<fileName>Update_Test_5.exe</filename>
 	<md5>33C434C3D254549EA617B8CA359CE955</md5>
 	<descrition>Update Basic</description>
