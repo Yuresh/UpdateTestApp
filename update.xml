@@ -2,10 +2,10 @@
 <sharpUpdate>
    <update appId="Update_Test_5">  
 	<version>2.0.0.0</version>  
-	<url>https://github.com/Yuresh/UpdateTestApp.git<url>
-	<fileName>Update_Test_5.exe</filename>
+	<url>https://github.com/Yuresh/UpdateTestApp/blob/master/Update_Test_5.exe?raw=true<url>
+	<filename>Update_Test_5.exe</filename>
 	<md5>33C434C3D254549EA617B8CA359CE955</md5>
-	<descrition>Update Basic</description>
-        <launchArgs>
+	<description>Update Basic</description>
+        <launchArgs>a</aunchArgs>
    </update>
 </sharpUpdate>
