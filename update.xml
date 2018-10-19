@@ -6,6 +6,6 @@
 	<filename>Update_Test_5.exe</filename>
 	<md5>33C434C3D254549EA617B8CA359CE955</md5>
 	<description>Update Basic</description>
-        <launchArgs>a</aunchArgs>
+        <launchArgs>a</launchArgs>
    </update>
 </sharpUpdate>
